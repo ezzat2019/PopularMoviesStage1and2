@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies Stage 1</string>
+    <string name="trend">Top Trend</string>
+    <string name="populer">Populer</string>
+    <string name="deteil_title">Title</string>
+    <string name="fave_off">mark as\n favourite</string>
+    <string name="fave_on">I love it :)</string>
+    <string name="my_fav">Favourite videos</string>
+</resources>

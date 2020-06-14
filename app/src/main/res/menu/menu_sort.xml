@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_sort_top_trend"
+        android:orderInCategory="1"
+        android:title="@string/trend"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_sort_populer"
+        android:orderInCategory="2"
+        android:title="@string/populer"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_sort_fav"
+        android:orderInCategory="3"
+        android:title="@string/my_fav"
+        app:showAsAction="never" />
+</menu>
